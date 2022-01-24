@@ -1,0 +1,4 @@
+1. name - Oleksandra,
+2. lastname - Omelchuk,
+3. age - 27,
+4. salary - $1000 
