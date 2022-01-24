@@ -1,1 +1,16 @@
+ ID: 1
+ Summary: "HTML code appears after the user uploads a photo larger than 1 KB"
 
+ Environment: Windows 10 (64-bit), GoogleChrome v.97.0.4692.71 (64-bit)
+
+ Priority: Blocker
+
+ Description: 
+    
+    STR:
+      1. Go to the registration form;
+      2. Click on the “Click to upload a photo” frame;
+      3. Upload a photo larger than 1 KB.
+    
+    ER: Photo uploaded.
+    AR: HTML code appears after the user uploads a photo larger than 1 KB.
