@@ -1,0 +1,11 @@
+TV_series: Friends;
+
+Favourite_dish: 
+- soup (chiсken_soup, ramen, pho_bo); 
+- main_dish (steak, spaghetti, fried_rice);
+- dessert (cheesecake, tiramisu).
+
+Favorite_country: 
+- Spain (Barcelona);
+- France (Paris);
+- Thailand (Chiang Mai, Phuket, Bangkok);
